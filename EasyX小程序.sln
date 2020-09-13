@@ -89,6 +89,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MirrorPaint", "MirrorPaint\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EasyPlot", "EasyPlot\EasyPlot.vcxproj", "{B5471B70-A9B4-4F9B-8839-993CE06BCB4B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZoomableMandelbrotSet", "ZoomableMandelbrotSet\ZoomableMandelbrotSet.vcxproj", "{11F03B5B-2F4A-4819-ADBA-AEDCBA3B2B01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -441,6 +443,14 @@ Global
 		{B5471B70-A9B4-4F9B-8839-993CE06BCB4B}.Release|x64.Build.0 = Release|x64
 		{B5471B70-A9B4-4F9B-8839-993CE06BCB4B}.Release|x86.ActiveCfg = Release|Win32
 		{B5471B70-A9B4-4F9B-8839-993CE06BCB4B}.Release|x86.Build.0 = Release|Win32
+		{11F03B5B-2F4A-4819-ADBA-AEDCBA3B2B01}.Debug|x64.ActiveCfg = Debug|x64
+		{11F03B5B-2F4A-4819-ADBA-AEDCBA3B2B01}.Debug|x64.Build.0 = Debug|x64
+		{11F03B5B-2F4A-4819-ADBA-AEDCBA3B2B01}.Debug|x86.ActiveCfg = Debug|Win32
+		{11F03B5B-2F4A-4819-ADBA-AEDCBA3B2B01}.Debug|x86.Build.0 = Debug|Win32
+		{11F03B5B-2F4A-4819-ADBA-AEDCBA3B2B01}.Release|x64.ActiveCfg = Release|x64
+		{11F03B5B-2F4A-4819-ADBA-AEDCBA3B2B01}.Release|x64.Build.0 = Release|x64
+		{11F03B5B-2F4A-4819-ADBA-AEDCBA3B2B01}.Release|x86.ActiveCfg = Release|Win32
+		{11F03B5B-2F4A-4819-ADBA-AEDCBA3B2B01}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
